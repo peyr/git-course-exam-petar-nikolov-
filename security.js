@@ -1,1 +1,1 @@
-CRITICAL_BUG=true
+CRITICAL_BUG=false
