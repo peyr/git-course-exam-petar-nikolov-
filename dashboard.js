@@ -1,1 +1,2 @@
 dashboardLayout()
+dashboardCharts()
