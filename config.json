@@ -1,3 +1,4 @@
 {
-    "auth":"true"
+    "auth":"true",
+    "dashboard":"true"
 }
